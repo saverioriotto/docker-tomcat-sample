@@ -1,8 +1,8 @@
 # docker-tomcat-sample
 
-# Un semplice tutorial per avviare webapp su Tomcat utilizzando Docker
+Un semplice tutorial per avviare webapp su Tomcat utilizzando Docker
 
-Passaggi da seguire considerando che l'installazione di Docker si già stata effettuata:
+Passaggi da seguire:
 
 * Installare [Docker](https://blog.saverioriotto.it/blog/155/tutorial/-come-installare-docker-su-centos)
 * Clonare questo repository - $git clone https://github.com/saverioriotto/docker-tomcat-sample.git
